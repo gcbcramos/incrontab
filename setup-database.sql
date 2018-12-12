@@ -14,7 +14,7 @@ SET time_zone = "+00:00";
 -- Base de Dados: `logfiles`
 --
 CREATE DATABASE IF NOT EXISTS `logfiles` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `files`;
+USE `logfiles`;
 
 -- --------------------------------------------------------
 
